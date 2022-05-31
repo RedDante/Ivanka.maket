@@ -1,0 +1,23 @@
+.list {
+    list-style:none;
+}
+
+.header {
+    background-color:#32323E;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.headr_container {
+    display: flex;
+}
+
+.header_list {
+    display: flex;
+}
+
+.header_item {
+    margin-right: 72px;
+    margin-left: 247px;
+        
+}
